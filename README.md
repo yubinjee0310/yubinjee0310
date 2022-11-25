@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yubin Jee, an undergrad @ Stanford University studying CS!
-- 👀 I’m interested in tech, product, sustainability, HCI/AI, design, and building things :) 
+- 👀 I’m interested in tech, product, sustainability, HCI/AI, design, and building :) 
 - 🌱 I’m currently exploring these spaces!
 - 📫 Reach me at yubinjee@stanford.edu
 
